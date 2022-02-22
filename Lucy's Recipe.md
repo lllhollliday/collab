@@ -28,7 +28,7 @@ Chicken Marinade
 75g Greek yoghurt
 (full fat)
 
-#### Makhani Sauce
+### Makhani Sauce
 
 20g garlic
 (5-6 cloves, grated or finely diced)
@@ -57,7 +57,7 @@ Chicken Marinade
 ½ tsp fresh dill fronds
 80ml double cream
 
-### Method
+## Method
 1. Chicken marinade For the marinade, blitz 10g of ginger, 20g of garlic, 5g of fine sea salt, 1 teaspoon of deggi mirch chilli powder, 1½ teaspoons of ground cumin, ½ teaspoon of garam masala, 2 teaspoons of lime juice, 2 teaspoons of vegetable oil and 75g of full-fat Greek yoghurt in a blender or small food processor.
 2. Place 700g of chicken thighs (cut into 4cm chunks) into a bowl and add the marinade. Coat the chicken well and refrigerate for 6-24 hours.
 3. Makhani sauce Place a large saucepan over a medium heat and add 175ml of vegetable oil (or less, see intro). Add 15g of sliced garlic and fry until it just starts to turn golden and crispy. Remove the garlic with a slotted spoon and drain on some kitchen paper.
